@@ -1,3 +1,6 @@
+<!-- Modern Animated Header -->
+<div align="center">
+  
 # 👨‍💻 Arghya Das
 
 ### Tech Enthusiast • Problem Solver • Lifelong Learner
@@ -138,25 +141,6 @@ const arghya = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 🐦 Flappy Bird Challenge
-
-<div align="center">
-
-### 🎮 Play Flappy Bird Right Here!
-
-<a href="https://arghya108.github.io/flappy-bird-game/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=header&text=🐦+CLICK+TO+PLAY+FLAPPY+BIRD!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" alt="Play Flappy Bird"/>
-</a>
-
-**🏆 Challenge yourself!** Click above to play Flappy Bird  
-**🎯 Goal:** Beat your high score and share it with friends!
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd5ZGt2Ym5rYnJhN3JhbGNuZWFyN3F2aWJ5YnN4YnRxNGx3ZnptZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif" width="200" alt="Flappy Bird Animation"/>
-
-</div>
 
 ---
 
