@@ -20,7 +20,7 @@
 ```typescript
 const arghya = {
     location: "Dhaka, Bangladesh",
-    currentFocus: "Full Stack Development",
+    currentFocus: "Exploring new fields",
     learning: ["C#", "MySQL", "GitHub Actions", "Cloud Technologies"],
     hobbies: ["Coding", "Problem Solving", "Exploring New Tech"],
     funFact: "I'm boring and funny at the same time 😄"
@@ -34,7 +34,7 @@ const arghya = {
 - 🔭 Working on personal projects to sharpen my skills
 - 🌱 Currently diving deep into **C#, MySQL, and Git**
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **C++, Java, Python, or Web Development**
+- 💬 Ask me about **C++, Java, Python, or C# **
 - 📫 Reach me at **arghyadas108@gmail.com**
 - ⚡ Always up for learning something new!
 
@@ -140,17 +140,6 @@ const arghya = {
 
 </div>
 
-
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya108&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/arghya108/YOUR_REPO_NAME)
-
-</div>
 
 ---
 
