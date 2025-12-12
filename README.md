@@ -167,6 +167,14 @@ const arghya = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 💡 Inspirational Quotes
+
+> "Programming isn't about what you know; it's about what you can figure out."  
+> *- Chris Pine*
+
+> "Everybody should learn to program a computer, because it teaches you how to think."  
+> *- Steve Jobs*
+
 ### 🎯 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=arghya108&color=6C63FF&style=for-the-badge)
@@ -178,8 +186,8 @@ const arghya = {
 
 <div align="center">
   
-### Show some ❤️ by starring repositories you find interesting!
+### Show some ❤ by starring repositories you find interesting!
 
-**"Everybody should learn to program a computer, because it teaches you how to think." - Steve Jobs**
+*“Programs must be written for people to read, and only incidentally for machines to execute.”*
 
 </div>
