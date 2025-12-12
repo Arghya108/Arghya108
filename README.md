@@ -1,4 +1,24 @@
-<!-- Modern Animated Header -->
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🎮 Pixel Game - Eat the Green Dots!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24,30&height=150&section=header&text=████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████&fontSize=8&fontColor=39FF14" alt="Pixel Game"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,18,20,24&height=120&section=header&text=🎮+USE+↑↓←→+TO+PLAY!&fontSize=30&fontColor=FFD700&animation=blinking" alt="Game Controls"/>
+
+**🟢 Collect Green Dots! 🟣 Avoid Purple Blocks! 🔵 Bonus Blue Coins!**
+
+</div>■<!-- Modern Animated Header -->
 <div align="center">
   
 # 👨‍💻 Arghya Das
