@@ -12,6 +12,22 @@
 <!-- Animated Wave Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
+## 🎮 Interactive Coding Game
+
+<div align="center">
+
+### 🕹️ Play a Quick Reaction Game!
+
+<a href="https://github.com/arghya108">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=100&section=header&text=🎯+CLICK+ME!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Click Game"/>
+</a>
+
+**Challenge:** Try to click all the trophies below! ⬇️
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```typescript
@@ -98,9 +114,17 @@ const arghya = {
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arghya108&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya108&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghya108&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arghya108&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 ---
 
@@ -110,42 +134,36 @@ const arghya = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arghya108/arghya108/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
-  <p align="center">
-    <a href="https://twitter.com/arghyada<div align="center">
 
-<p align="center">
-  <a href="https://twitter.com/arghyadas88155" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arghyadas108" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/arghya.das.520562" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/arghya108" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arghyadas88155)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghyadas108)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/arghya.das.520562)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arghya108)
 
 </div>
+
 ---
 
 ## 💼 Featured Projects
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya108&repo=calculator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/arghya108/calculator)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya108&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/arghya108/YOUR_REPO_NAME)
 
 </div>
-
-
 
 ---
 
@@ -163,14 +181,6 @@ const arghya = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 💡 Inspirational Quotes
-
-> *"Programming isn't about what you know; it's about what you can figure out."*  
-> **- Chris Pine**
-
-> *"Everybody should learn to program a computer, because it teaches you how to think."*  
-> **- Steve Jobs**
-
 ### 🎯 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=arghya108&color=6C63FF&style=for-the-badge)
@@ -184,6 +194,6 @@ const arghya = {
   
 ### Show some ❤️ by starring repositories you find interesting!
 
-**“Programs must be written for people to read, and only incidentally for machines to execute.”**
+**"Everybody should learn to program a computer, because it teaches you how to think." - Steve Jobs**
 
 </div>
