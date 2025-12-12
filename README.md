@@ -194,6 +194,6 @@ const arghya = {
   
 ### Show some ❤️ by starring repositories you find interesting!
 
-**"Everybody should learn to program a computer, because it teaches you how to think." - Steve Jobs**
+**"Programming isn't about what you know; it's about what you can figure out." - Chris Pine**
 
 </div>
