@@ -129,7 +129,7 @@ const arghya = {
 ## 🎮 Contribution Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/snake-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/arghya108/arghya108/output/pacman.svg" />
 </div>
 
 
