@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arghya Das</h1>
-<h3 align="center">A Love To Explore New Things.</h3>
+<h3 align="center">I Love To Explore New Things.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya108" alt="arghya108" /></a> </p>
 
