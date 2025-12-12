@@ -126,8 +126,6 @@ const arghya = {
 
 ---
 
-## 🐍 Contribution Snake
-
 ## 🎮 Contribution Game
 
 <div align="center">
