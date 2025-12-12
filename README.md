@@ -12,22 +12,6 @@
 <!-- Animated Wave Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
-## 🎮 Interactive Coding Game
-
-<div align="center">
-
-### 🕹️ Play a Quick Reaction Game!
-
-<a href="https://github.com/arghya108">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=100&section=header&text=🎯+CLICK+ME!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Click Game"/>
-</a>
-
-**Challenge:** Try to click all the trophies below! ⬇️
-
-</div>
-
----
-
 ## 🚀 About Me
 
 ```typescript
@@ -123,18 +107,6 @@ const arghya = {
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghya108&custom_title=Arghya's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Contribution Graph" />
-
----
-
-## 🎮 Contribution Game
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
 
 ---
 
