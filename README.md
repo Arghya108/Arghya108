@@ -3,7 +3,7 @@
   
 # 👨‍💻 Arghya Das
 
-### Software Developer • Tech Enthusiast • Problem Solver
+### Tech Enthusiast • Problem Solver • Lifelong Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+the+future%2C+one+commit+at+a+time;Always+learning%2C+always+growing;C%23+%7C+MySQL+%7C+Python+Developer)](https://git.io/typing-svg)
 
@@ -11,6 +11,20 @@
 
 <!-- Animated Wave Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
+
+## 🎮 Interactive Coding Game
+
+<div align="center">
+
+### 🕹️ Play a Quick Reaction Game!
+
+<a href="https://github.com/arghya108">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=100&section=header&text=🎯+CLICK+ME!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" alt="Click Game"/>
+</a>
+
+**Challenge:** Try to click all the trophies below! ⬇️
+
+</div>
 
 ---
 
@@ -46,19 +60,52 @@ const arghya = {
 <div align="center">
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/>
+  </a>
+</p>
 
 ### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a>
+</p>
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+  </a>
+</p>
 
 </div>
 
@@ -147,6 +194,6 @@ const arghya = {
   
 ### Show some ❤️ by starring repositories you find interesting!
 
-**"The only way to do great work is to love what you do." - Steve Jobs**
+**"Everybody should learn to program a computer, because it teaches you how to think." - Steve Jobs**
 
 </div>
