@@ -167,9 +167,10 @@ const arghya = {
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya108&repo=Hospital-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/arghya108/Hospital-Management-System)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arghya108&repo=calculator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/arghya108/calculator)
 
 </div>
+
 
 
 ---
