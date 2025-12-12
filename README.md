@@ -149,19 +149,19 @@ const arghya = {
 <div align="center">
 
 <p align="center">
-  <a href="https://twitter.com/arghyadas88155" target="_blank">
+  <a href="https://twitter.com/arghyadas88155" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arghyadas108" target="_blank">
+  <a href="https://linkedin.com/in/arghyadas108" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/arghya.das.520562" target="_blank">
+  <a href="https://fb.com/arghya.das.520562" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/arghya108" target="_blank">
+  <a href="https://instagram.com/arghya108" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
