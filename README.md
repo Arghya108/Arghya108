@@ -1,8 +1,3 @@
-**🟢 Collect Green Dots! 🟣 Avoid Purple Blocks! 🔵 Bonus Blue Coins!**
-
-</div>■<!-- Modern Animated Header -->
-<div align="center">
-  
 # 👨‍💻 Arghya Das
 
 ### Tech Enthusiast • Problem Solver • Lifelong Learner
