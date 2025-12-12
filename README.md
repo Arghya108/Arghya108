@@ -1,11 +1,3 @@
-## 🎮 Pixel Game - Eat the Green Dots!
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24,30&height=150&section=header&text=████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████&fontSize=8&fontColor=39FF14" alt="Pixel Game"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,18,20,24&height=120&section=header&text=🎮+USE+↑↓←→+TO+PLAY!&fontSize=30&fontColor=FFD700&animation=blinking" alt="Game Controls"/>
-
 **🟢 Collect Green Dots! 🟣 Avoid Purple Blocks! 🔵 Bonus Blue Coins!**
 
 </div>■<!-- Modern Animated Header -->
