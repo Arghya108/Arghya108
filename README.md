@@ -19,7 +19,7 @@
 <!-- Modern Animated Header -->
 <div align="center">
   
-# 👨‍💻 I AM A
+# 👨‍💻 I Am A
 
 ### Tech Enthusiast • Problem Solver • Lifelong Learner
 
