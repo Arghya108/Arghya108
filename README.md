@@ -108,7 +108,7 @@ const arghya = {
 </div>
 
 ---
-## 📊 Contribution Graph in Snake Game
+
 
 <div align="center">
   <br>
