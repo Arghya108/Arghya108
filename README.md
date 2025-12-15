@@ -1,3 +1,21 @@
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KaziTanvir/KaziTanvir/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Arghya+Das!;+Student+at+AIUB" />
+</h1>
+
+<h3 align="center">Student @ AIUB </h3>
+
+<br/>
+
+<div>
+
+---
+
+
 <!-- Modern Animated Header -->
 <div align="center">
   
@@ -109,23 +127,6 @@ const arghya = {
 
 ---
 
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KaziTanvir/KaziTanvir/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Arghya+Das!;+Student+at+AIUB" />
-</h1>
-
-<h3 align="center">Student @ AIUB </h3>
-
-<br/>
-
-<div>
-
----
 
 ## 📊 Contribution Graph
 
