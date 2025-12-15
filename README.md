@@ -19,7 +19,7 @@
 <!-- Modern Animated Header -->
 <div align="center">
   
-# 👨‍💻 Arghya Das
+# 👨‍💻 I AM A
 
 ### Tech Enthusiast • Problem Solver • Lifelong Learner
 
