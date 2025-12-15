@@ -108,6 +108,24 @@ const arghya = {
 </div>
 
 ---
+## 📊 Contribution Graph in Snake Game
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KaziTanvir/KaziTanvir/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Kazi+Tanvir!;+Lecturer+at+AIUB" />
+</h1>
+
+<h3 align="center">Lecturer @ AIUB | Researcher | Inventor | Machine Learning & Deep Learning Enthusiast</h3>
+
+<br/>
+
+<div>
+
+---
 
 ## 📊 Contribution Graph
 
