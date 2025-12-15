@@ -116,10 +116,10 @@ const arghya = {
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Kazi+Tanvir!;+Lecturer+at+AIUB" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Arghya+Das!;+Student+at+AIUB" />
 </h1>
 
-<h3 align="center">Lecturer @ AIUB | Researcher | Inventor | Machine Learning & Deep Learning Enthusiast</h3>
+<h3 align="center">Student @ AIUB </h3>
 
 <br/>
 
