@@ -75,26 +75,14 @@ const arghya = {
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|
 
 ### 🎨 Design Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" title="Draw.io" alt="Draw.io" height="40"/>
-</p>
+| Figma | Canva | Draw.io |
+|-------|-------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
 
 ### ⚙️ Software & Simulation Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NI%20Multisim-00B140?style=for-the-badge&logo=ni&logoColor=white" title="NI Multisim" alt="NI Multisim" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" title="AutoCAD" alt="AutoCAD" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Proteus-2E3A4E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white" title="Proteus" alt="Proteus" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB" alt="MATLAB" height="40"/>
-</p>
+| NI Multisim | AutoCAD | Proteus | MATLAB |
+|-------------|---------|---------|--------|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/National_Instruments_logo.svg/120px-National_Instruments_logo.svg.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/autocad/autocad-original.svg" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
 
 </div>
 
