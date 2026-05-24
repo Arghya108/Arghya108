@@ -82,7 +82,7 @@ const arghya = {
 ### ⚙️ Software & Simulation Tools
 | NI Multisim | AutoCAD | Proteus | MATLAB |
 |-------------|---------|---------|--------|
-|<img src="Tools Images/ni-multisim-software.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="Tools Images/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart-thumbnail.jpg" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
+|<img src="Tools Images/ni-multisim-software.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="Tools Images/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart-thumbnail.webp" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
 
 </div>
 
