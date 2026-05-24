@@ -7,29 +7,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00b300&lines=Hi+There!+👋;+I'm+Arghya+Das!;+Student+at+AIUB" />
 </h1>
 
-<h3 align="center">Student @ AIUB </h3>
+<h3 align="center">Student @ AIUB</h3>
 
 <br/>
 
-<div>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
 ---
 
-
-<!-- Modern Animated Header -->
 <div align="center">
-  
-# 👨‍💻 i Am a
+
+# 👨‍💻 I Am a
 
 ### Tech Enthusiast • Problem Solver • Lifelong Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Myself%2C+one+commit+at+a+time;Always+learning%2C+always+growing;)](https://git.io/typing-svg)
 
 </div>
-
-<!-- Animated Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
-
 
 ---
 
@@ -39,7 +34,7 @@
 const arghya = {
     location: "Dhaka, Bangladesh",
     currentFocus: "Exploring new fields",
-    learning: ["C#", "MySQL", "GitHub Actions""],
+    learning: ["C#", "MySQL", "GitHub Actions"],
     hobbies: ["Coding", "Problem Solving", "Exploring New Tech"],
     funFact: "I'm boring and funny at the same time 😄"
 };
@@ -52,7 +47,7 @@ const arghya = {
 - 🔭 Working on personal projects to sharpen my skills
 - 🌱 Currently diving deep into **C#, MySQL, and Git**
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **C++, Java, Python, or C# **
+- 💬 Ask me about **C++, Java, Python, or C#**
 - 📫 Reach me at **arghyadas108@gmail.com**
 - ⚡ Always up for learning something new!
 
@@ -65,19 +60,22 @@ const arghya = {
 <div align="center">
 
 ### Languages
-| Python | Java | MySQL | Git | C# | C++ |
-|--------|------|-------|-----|----|----|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|
+| Python | Java | C# | C++ | MySQL | Git |
+|--------|------|----|-----|-------|-----|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|
 
 ### Web Technologies
-| HTML5 | CSS3 |
-|-------|------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>|
+| HTML5 | CSS3 | JavaScript | PHP |
+|-------|------|------------|-----|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|
 
 ### Databases & Tools
 | MySQL | Oracle | GitHub |
 |-------|--------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|
+
+</div>
+
 ---
 
 ## 📈 GitHub Analytics
@@ -89,7 +87,6 @@ const arghya = {
 
 ---
 
-
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghya108&custom_title=Arghya's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Contribution Graph" />
@@ -99,9 +96,6 @@ const arghya = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <p align="center">
-    <a href="https://twitter.com/arghyada<div align="center">
-
 <p align="center">
   <a href="https://twitter.com/arghyadas88155" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
@@ -119,9 +113,7 @@ const arghya = {
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
-
 </div>
-
 
 ---
 
@@ -147,9 +139,9 @@ const arghya = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
-  
-### Show some ❤ by starring repositories you find interesting!
 
-*“Programs must be written for people to read, and only incidentally for machines to execute.”*
+### Show some ❤️ by starring repositories you find interesting!
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
 
 </div>
