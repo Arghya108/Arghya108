@@ -59,17 +59,17 @@ const arghya = {
 
 <div align="center">
 
-### Languages
+### 🐍 Languages
 | Python | Java | C# | C++ | MySQL | Git |
 |--------|------|----|-----|-------|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|
 
-### Web Technologies
+### 🌐 Web Technologies
 | HTML5 | CSS3 | JavaScript | PHP |
 |-------|------|------------|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|
 
-### Databases & Tools
+### 🛢️ Databases & Tools
 | MySQL | Oracle | GitHub |
 |-------|--------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|
@@ -82,7 +82,7 @@ const arghya = {
 ### ⚙️ Software & Simulation Tools
 | NI Multisim | AutoCAD | Proteus | MATLAB |
 |-------------|---------|---------|--------|
-|<img src="Tools Images/ni-multisim-software.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|&nbsp;<img src="Tools Images/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart-thumbnail.webp" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
+|&nbsp;<img src="Tools Images/IM_MULTISIM - Icono.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|&nbsp;<img src="Tools Images/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart-thumbnail.webp" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
 
 </div>
 
