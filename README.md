@@ -75,14 +75,26 @@ const arghya = {
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|
 
 ### 🎨 Design Tools
-| Figma | Canva | Draw.io |
-|-------|-------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/canva/00C4CC" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" title="Draw.io" alt="Draw.io" height="40"/>
+</p>
 
 ### ⚙️ Software & Simulation Tools
-| NI Multisim | AutoCAD | Proteus | MATLAB |
-|-------------|---------|---------|--------|
-|<img src="https://cdn.simpleicons.org/ni/00b140" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/autocad/E51937" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat&logoColor=white" title="Proteus" alt="Proteus" height="30"/>|<img src="https://cdn.simpleicons.org/matlab/0076A8" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NI%20Multisim-00B140?style=for-the-badge&logo=ni&logoColor=white" title="NI Multisim" alt="NI Multisim" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" title="AutoCAD" alt="AutoCAD" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Proteus-2E3A4E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white" title="Proteus" alt="Proteus" height="40"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB" alt="MATLAB" height="40"/>
+</p>
 
 </div>
 
