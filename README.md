@@ -74,6 +74,16 @@ const arghya = {
 |-------|--------|--------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|
 
+### 🎨 Design Tools
+| Figma | Canva | Draw.io |
+|-------|-------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/canva/00C4CC" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
+
+### ⚙️ Software & Simulation Tools
+| NI Multisim | AutoCAD | Proteus | MATLAB |
+|-------------|---------|---------|--------|
+|<img src="https://cdn.simpleicons.org/ni/00b140" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="https://cdn.simpleicons.org/autocad/E51937" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat&logoColor=white" title="Proteus" alt="Proteus" height="30"/>|<img src="https://cdn.simpleicons.org/matlab/0076A8" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
+
 </div>
 
 ---
