@@ -77,12 +77,12 @@ const arghya = {
 ### 🎨 Design Tools
 | Figma | Canva | Draw.io |
 |-------|-------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/120px-Canva_Logo.svg.png" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
 
 ### ⚙️ Software & Simulation Tools
 | NI Multisim | AutoCAD | Proteus | MATLAB |
 |-------------|---------|---------|--------|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/National_Instruments_logo.svg/120px-National_Instruments_logo.svg.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/autocad/autocad-original.svg" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/National_Instruments_logo.svg/120px-National_Instruments_logo.svg.png" title="NI Multisim" alt="NI Multisim" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AutoCAD_2017_icon.png/120px-AutoCAD_2017_icon.png" title="AutoCAD" alt="AutoCAD" width="55" height="55"/>|<img src="https://img.shields.io/badge/Proteus-2E3A4E?style=flat-square&logoColor=white&label=" title="Proteus" alt="Proteus" height="40"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="MATLAB" width="55" height="55"/>|
 
 </div>
 
