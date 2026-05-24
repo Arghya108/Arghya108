@@ -77,7 +77,7 @@ const arghya = {
 ### 🎨 Design Tools
 | Figma | Canva | Draw.io |
 |-------|-------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/120px-Canva_Logo.svg.png" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|<img src="Tools Images/canva-app-logo-on-a-transparent-background-free-png.webp" title="Canva" alt="Canva" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" title="Draw.io" alt="Draw.io" width="55" height="55"/>|
 
 ### ⚙️ Software & Simulation Tools
 | NI Multisim | AutoCAD | Proteus | MATLAB |
