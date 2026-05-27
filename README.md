@@ -41,13 +41,13 @@ const arghya = {
 ```
 
 <details>
-<summary>📊 <b>More about my coding journey</b></summary>
+<summary>📊 <b>More about my journey</b></summary>
 <br>
 
 - 🔭 Working on personal projects to sharpen my skills
-- 🌱 Currently diving deep into **C#, MySQL, and Git**
+- 🌱 Currently diving deep into **AI, ML**
 - 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **C++, Java, Python, or C#**
+- 💬 Ask me about **AI**
 - 📫 Reach me at **arghyadas108@gmail.com**
 - ⚡ Always up for learning something new!
 
