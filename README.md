@@ -110,7 +110,7 @@ const arghya = {
 
 <div align="center">
 <p align="center">
-  <a href="https://twitter.com/arghyadas88155" target="_blank">
+  <a href="https://x.com/1_am_Arghya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
