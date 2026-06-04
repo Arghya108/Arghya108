@@ -132,9 +132,16 @@ const arghya = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 📰 Daily AI News
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+
+[![AI News](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=8000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Visit+daily+for+top+AI+news!)](https://news.ycombinator.com/news)
+
+> 🤖 **Stay Updated** — Follow the latest in AI  
+> 📡 [The Rundown AI](https://www.therundown.ai/) • [MIT Tech Review AI](https://www.technologyreview.com/topic/artificial-intelligence/) • [AI News](https://artificialintelligence-news.com/)
+
+</div>
 
 ### 💡 Inspirational Quotes
 
