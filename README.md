@@ -39,9 +39,6 @@ const Arghya = {
     funFact: "I'm boring and funny at the same time 😄"
 };
 ```
-<br>
-<b>📑 My Portfolio : https://arghya108.github.io/Arghya_Das/<b>
-<br>
 <details>
 <summary>📊 <b>More about my journey</b></summary>
 <br>
