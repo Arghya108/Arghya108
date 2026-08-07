@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 About Me 
+## 🚀 About Me : https://arghya108.github.io/Arghya_Das/
 
 ```typescript
 const Arghya = {
@@ -40,7 +40,7 @@ const Arghya = {
 };
 ```
 <br>
-## 📑 My Portfolio : https://arghya108.github.io/Arghya_Das/
+📑 My Portfolio : https://arghya108.github.io/Arghya_Das/
 <details>
 <summary>📊 <b>More about my journey</b></summary>
 <br>
