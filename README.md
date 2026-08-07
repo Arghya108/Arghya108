@@ -40,7 +40,8 @@ const Arghya = {
 };
 ```
 <br>
-📑 My Portfolio : https://arghya108.github.io/Arghya_Das/
+<b>📑 My Portfolio : https://arghya108.github.io/Arghya_Das/<b>
+<br>
 <details>
 <summary>📊 <b>More about my journey</b></summary>
 <br>
