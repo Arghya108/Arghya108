@@ -28,10 +28,10 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 ```typescript
-const arghya = {
+const Arghya = {
     location: "Dhaka, Bangladesh",
     currentFocus: "Exploring new fields",
     learning: ["C#", "MySQL", "GitHub Actions"],
@@ -39,7 +39,8 @@ const arghya = {
     funFact: "I'm boring and funny at the same time 😄"
 };
 ```
-
+<br>
+## 📑 My Portfolio : https://arghya108.github.io/Arghya_Das/
 <details>
 <summary>📊 <b>More about my journey</b></summary>
 <br>
