@@ -34,9 +34,8 @@
 const Arghya = {
     location: "Dhaka, Bangladesh",
     currentFocus: "Exploring new fields",
-    learning: ["C#", "MySQL", "GitHub Actions"],
-    hobbies: ["Coding", "Problem Solving", "Exploring New Tech"],
-    funFact: "I'm boring and funny at the same time 😄"
+    learning: ["Python", "AI", "ML"],
+    hobbies: ["Reading", "Problem Solving", "Exploring New Tech"],
 };
 ```
 <details>
@@ -45,8 +44,6 @@ const Arghya = {
 
 - 🔭 Working on personal projects to sharpen my skills
 - 🌱 Currently diving deep into **AI, ML**
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **AI**
 - 📫 Reach me at **arghyadas108@gmail.com**
 - ⚡ Always up for learning something new!
 
